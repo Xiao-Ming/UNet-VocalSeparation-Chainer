@@ -1,6 +1,6 @@
 This is an implementation of U-Net for vocal separation proposed at ISMIR 2017, with Chainer framework.
 
-## Required libraries
+## Requirements
 
 Python 3.5.x
 
