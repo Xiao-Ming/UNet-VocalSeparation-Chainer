@@ -3,8 +3,11 @@ This is an implementation of U-Net for vocal separation proposed at ISMIR 2017, 
 ## Required libraries
 
 Python 3.5.x
+
 Chainer 3.0
+
 librosa 5.0
+
 cupy 2.0 (required if you want to train U-Net yourself. CUDA environment required.)
 
 ## Usage
