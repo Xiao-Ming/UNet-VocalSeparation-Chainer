@@ -1,0 +1,5 @@
+__pycache__/*
+Audiocheck/*
+env/*
+*.wav
+
