@@ -14,6 +14,8 @@ Code example for training U-Net
 """
 
 """
+import network
+
 Xlist,Ylist = util.LoadDataset(target="vocal")
 print("Dataset loaded.")
 network.TrainUNet(Xlist,Ylist,savefile="unet.model",epoch=30)
